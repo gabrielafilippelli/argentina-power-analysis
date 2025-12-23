@@ -30,7 +30,6 @@ The analysis emphasizes data cleaning, visualization, and exploratory insights u
 
 ## Repository Structure
 argentina-power-analysis/
-│
 ├── datasets/ # STATA do-files or scripts
 ├── images/ # Charts and visualizations (PNG or PDF)
 └── README.md
