@@ -28,16 +28,10 @@ The analysis emphasizes data cleaning, visualization, and exploratory insights u
 
 ---
 
-## Repository Structure
-argentina-power-analysis/
-├── datasets/ # STATA do-files or scripts
-├── images/ # Charts and visualizations (PNG or PDF)
-└── README.md
----
-
 ## How to Explore
 1. View visualizations in the `images/` folder for insights into political, economic, and social indicators.  
-2. Run STATA scripts in the `datasets/` folder to reproduce cleaning, transformations, and analyses (optional).  
+2. Run STATA scripts in the `datasets/` folder to reproduce cleaning, transformations, and analyses (optional)
+3. Please note the do File is separate from `datasets/` folder   
 
 ---
 
