@@ -1,7 +1,7 @@
 # Argentina Power Analysis: Political, Economic, and Social Indicators
 
 <p align="center">
-  <img src= "https://github.com/gabrielafilippelli/Mock_National_Intelligence_Estimate/blob/main/images/Mind_Map.jpg">
+  <img src= "https://github.com/gabrielafilippelli/argentina-power-analysis/blob/main/images/Mind_Map.jpg">
 </p>
 
 ## Overview
