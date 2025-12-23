@@ -1,17 +1,46 @@
 # Argentina Power Analysis: Political, Economic, and Social Indicators
 
-<p align="center">
-  <img src= "https://github.com/gabrielafilippelli/argentina-power-analysis/blob/main/images/Mind_Map.jpg">
-</p>
+## Project Overview
+This project evaluates Argentina’s national power through political, economic, and social indicators. The goal is to identify key trends and metrics that influence Argentina’s geopolitical, economic, and societal strength, and provide actionable insights on potential future trajectories.
 
-## Overview
-This project delves into aims to analyze if Argentina is a powerful country and determine its future. Heavy focus was placed on Argentina’s power through three key variables that impact Argentina’s power: political, economic, and social influences. Used STATA to clean and visualize the data, and identified key indicators.
+---
 
-## Programs Used:
-STATA
+## Analytical Focus
+- Political: Government stability, political influence, and other relevant metrics  
+- Economic: GDP growth, trade balance, inflation, and related economic indicators  
+- Social: Population dynamics, education, healthcare, and societal metrics  
 
-## Data Gathering
-With these questions I had, I downloaded datasets from Harvard Dataverse and the World Bank, which are listed under the dataset folder.
+The analysis emphasizes data cleaning, visualization, and exploratory insights using **STATA**.
 
-## Results
-Illustrated through data visualizations and a narrative that Argentina is not a powerful country, and its future is not a powerful one in comparison to other countries in South America.
+---
+
+## Tools & Technologies
+- **STATA**: Data cleaning, manipulation, and statistical analysis  
+- **Data Visualization**: Charts and summary tables to highlight key findings  
+
+---
+
+## Key Findings (Summary)
+- Political indicators highlight areas of strength and weakness in governance  
+- Economic trends provide insight into Argentina’s regional influence and stability  
+- Social metrics reveal societal strengths and potential areas for improvement  
+- Combined assessment identifies the primary drivers of national power  
+
+---
+
+## Repository Structure
+argentina-power-analysis/
+│
+├── datasets/ # STATA do-files or scripts
+├── images/ # Charts and visualizations (PNG or PDF)
+└── README.md
+---
+
+## How to Explore
+1. View visualizations in the `images/` folder for insights into political, economic, and social indicators.  
+2. Run STATA scripts in the `datasets/` folder to reproduce cleaning, transformations, and analyses (optional).  
+
+---
+
+## Author
+Gabriela Filippelli
